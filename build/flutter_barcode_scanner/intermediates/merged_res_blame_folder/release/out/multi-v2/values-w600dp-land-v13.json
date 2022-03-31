@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\flutter_barcode_scanner\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\54cb70ea815559103c59848708b3d4a5\\material-1.3.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,51",
+                        "endOffsets": "105,157"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\54cb70ea815559103c59848708b3d4a5\\material-1.3.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,51",
+                        "endOffsets": "105,157"
+                    }
+                }
+            ]
+        }
+    ]
+}

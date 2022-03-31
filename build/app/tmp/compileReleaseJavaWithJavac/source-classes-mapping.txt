@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/gary/license_scanner/MainActivity.java
+ com.gary.license_scanner.MainActivity
+com/gary/license_scanner/BuildConfig.java
+ com.gary.license_scanner.BuildConfig

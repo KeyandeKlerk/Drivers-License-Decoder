@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\fast_out_slow_in.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\interpolator\\fast_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\interpolator\\mtrl_linear.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    }
+]

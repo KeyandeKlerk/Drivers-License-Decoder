@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1d5dae69fb3f68a5e9accc1c844f52da\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1b8bd15e4db8486592aed62fdac04bd1\\appcompat-1.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

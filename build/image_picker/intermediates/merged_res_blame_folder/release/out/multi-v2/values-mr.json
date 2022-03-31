@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\image_picker\\intermediates\\res\\merged\\release\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1d5dae69fb3f68a5e9accc1c844f52da\\core-1.6.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\image_picker\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\1d5dae69fb3f68a5e9accc1c844f52da\\core-1.6.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\Keyan\\.gradle\\caches\\transforms-2\\files-2.1\\6a4f784d0b4a8a5806ba0b6c4d9554e7\\material-1.0.0\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    }
+]

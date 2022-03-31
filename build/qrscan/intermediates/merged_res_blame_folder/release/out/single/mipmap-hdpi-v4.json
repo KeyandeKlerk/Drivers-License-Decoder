@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_photo.png",
+        "source": "D:\\Desktop\\flutter_windows_2.10.0-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-hdpi\\ic_photo.png"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Desktop\\flutter_windows_2.10.0-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_light.png",
+        "source": "D:\\Desktop\\flutter_windows_2.10.0-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-hdpi\\ic_light.png"
+    },
+    {
+        "merged": "D:\\Documents\\Programming Projects\\Flutter\\drivers_license_decoder\\Drivers-License-Decoder\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_back.png",
+        "source": "D:\\Desktop\\flutter_windows_2.10.0-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-hdpi\\ic_back.png"
+    }
+]

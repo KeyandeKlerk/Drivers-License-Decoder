@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "49098843952",
+    "project_id": "zentylvms",
+    "storage_bucket": "zentylvms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49098843952:android:9248c0c6e2649fe3380af5",
+        "android_client_info": {
+          "package_name": "com.gary.license_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49098843952-2c1gv46e8tfpsd94julmgo7nanbsjoag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4gGkgRPZLYHDlUHXla8k4oC0VAp1vO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49098843952-2c1gv46e8tfpsd94julmgo7nanbsjoag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49098843952:android:6ffee7fe92fc1ccd380af5",
+        "android_client_info": {
+          "package_name": "com.zentyl.visitor_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49098843952-2c1gv46e8tfpsd94julmgo7nanbsjoag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4gGkgRPZLYHDlUHXla8k4oC0VAp1vO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49098843952-2c1gv46e8tfpsd94julmgo7nanbsjoag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
