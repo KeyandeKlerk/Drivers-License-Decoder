@@ -5,7 +5,8 @@ import 'package:qrscan/qrscan.dart' as scanner;
 
 class InOrOut extends StatelessWidget {
   void scanQRCode(BuildContext context, String InOrOut) async {
-    if (await Permission.contacts.request().isGranted) {
+    if (await Permission.camera.request().isGranted) {
+      print("Test to scan");
       // Either the permission was already granted before or the user just granted it.
       String cameraScanResult = await scanner.scan();
       print(cameraScanResult);
@@ -21,13 +22,13 @@ class InOrOut extends StatelessWidget {
       String host_surnname = scannedResult[8];
       Navigator.of(context).push(
           MaterialPageRoute(builder: (context) => ScanType(inOrOut: InOrOut)));
-    }
-
+    } else {
 // You can request multiple permissions at once.
-    Map<Permission, PermissionStatus> statuses = await [
-      Permission.camera,
-    ].request();
-    print(statuses.toString());
+      Map<Permission, PermissionStatus> statuses = await [
+        Permission.camera,
+      ].request();
+      print(statuses.toString());
+    }
   }
 
   @override
